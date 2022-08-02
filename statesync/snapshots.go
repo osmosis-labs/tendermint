@@ -161,7 +161,9 @@ func (p *snapshotPool) Ranked() []*snapshot {
 
 	candidates := make([]*snapshot, 0, len(p.snapshots))
 	for key := range p.snapshots {
-		candidates = append(candidates, p.snapshots[key])
+		if p.snapshots[key].Height > 3401000 && p.snapshots[key].Height < 4707300 {
+			candidates = append(candidates, p.snapshots[key])
+		}
 	}
 
 	sort.Slice(candidates, func(i, j int) bool {
