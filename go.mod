@@ -27,7 +27,7 @@ require (
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/ory/dockertest v3.3.5+incompatible
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.14.0
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0
 	github.com/rs/cors v1.7.0
 	github.com/rs/zerolog v1.23.0
@@ -38,7 +38,7 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/tendermint/tm-db v0.6.4
 	golang.org/x/crypto v0.0.0-20201117144127-c1f2f97bffc9
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
+	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 	google.golang.org/grpc v1.38.0
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
 )
