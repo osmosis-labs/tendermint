@@ -15,7 +15,7 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.5.2
 	github.com/google/orderedcode v0.0.1
-	github.com/google/uuid v1.2.0
+	github.com/google/uuid v1.3.0
 	github.com/gorilla/websocket v1.4.2
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
 	github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0
@@ -37,8 +37,8 @@ require (
 	github.com/spf13/viper v1.8.0
 	github.com/stretchr/testify v1.7.0
 	github.com/tendermint/tm-db v0.6.4
-	golang.org/x/crypto v0.0.0-20201117144127-c1f2f97bffc9
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
-	google.golang.org/grpc v1.38.0
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.4.0
+	google.golang.org/grpc v1.52.3
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
 )
