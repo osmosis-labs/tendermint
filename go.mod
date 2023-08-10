@@ -22,7 +22,7 @@ require (
 	github.com/gtank/merlin v0.1.1
 	github.com/hdevalence/ed25519consensus v0.0.0-20210204194344-59a8610d2b87
 	github.com/lib/pq v1.10.2
-	github.com/libp2p/go-buffer-pool v0.0.2
+	github.com/libp2p/go-buffer-pool v0.1.0
 	github.com/minio/highwayhash v1.0.2
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/ory/dockertest v3.3.5+incompatible
