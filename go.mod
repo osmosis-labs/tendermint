@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/BurntSushi/toml v0.3.1
-	github.com/ChainSafe/go-schnorrkel v0.0.0-20210222182958-bd440c890782
+	github.com/ChainSafe/go-schnorrkel v1.1.0
 	github.com/Masterminds/squirrel v1.5.0
 	github.com/Workiva/go-datastructures v1.0.53
 	github.com/adlio/schema v1.1.13
@@ -37,8 +37,8 @@ require (
 	github.com/spf13/viper v1.8.0
 	github.com/stretchr/testify v1.7.0
 	github.com/tendermint/tm-db v0.6.4
-	golang.org/x/crypto v0.0.0-20201117144127-c1f2f97bffc9
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0
 	google.golang.org/grpc v1.38.0
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
 )
