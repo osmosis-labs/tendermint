@@ -1,6 +1,6 @@
 module github.com/tendermint/tendermint
 
-go 1.18
+go 1.21
 
 require (
 	github.com/BurntSushi/toml v1.2.1
@@ -10,7 +10,7 @@ require (
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/go-kit/kit v0.12.0
 	github.com/go-kit/log v0.2.1
-	github.com/go-logfmt/logfmt v0.5.1
+	github.com/go-logfmt/logfmt v0.6.1
 	github.com/gofrs/uuid v4.3.0+incompatible
 	github.com/golang/protobuf v1.5.2
 	github.com/golangci/golangci-lint v1.50.1
@@ -149,7 +149,7 @@ require (
 	github.com/golangci/revgrep v0.0.0-20220804021717-745bb2f7c2e6 // indirect
 	github.com/golangci/unconvert v0.0.0-20180507085042-28b1c447d1f4 // indirect
 	github.com/google/btree v1.0.0 // indirect
-	github.com/google/go-cmp v0.5.9 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/gordonklaus/ineffassign v0.0.0-20210914165742-4cc7213b9bc8 // indirect
 	github.com/gostaticanalysis/analysisutil v0.7.1 // indirect
 	github.com/gostaticanalysis/comment v1.4.2 // indirect
