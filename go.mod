@@ -1,6 +1,6 @@
 module github.com/tendermint/tendermint
 
-go 1.18
+go 1.25
 
 require (
 	github.com/BurntSushi/toml v1.2.1
@@ -53,7 +53,7 @@ require (
 
 require (
 	github.com/Masterminds/semver/v3 v3.2.0
-	github.com/btcsuite/btcd/btcec/v2 v2.2.1
+	github.com/btcsuite/btcd/btcec/v2 v2.5.0
 	github.com/btcsuite/btcd/btcutil v1.1.2
 	github.com/go-git/go-git/v5 v5.5.1
 	github.com/vektra/mockery/v2 v2.14.0
@@ -103,7 +103,7 @@ require (
 	github.com/curioswitch/go-reassign v0.2.0 // indirect
 	github.com/daixiang0/gci v0.8.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1 // indirect
+	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.4.0 // indirect
 	github.com/denis-tingaikin/go-header v0.4.3 // indirect
 	github.com/dgraph-io/badger/v2 v2.2007.2 // indirect
 	github.com/dgraph-io/ristretto v0.0.3-0.20200630154024-f66de99634de // indirect
